@@ -1,4 +1,14 @@
 *.key
 *.crt
-.vscode
+*.env
+*.idea
+*.iml
 *.json
+capabilities*.properties
+*.github
+*.vscode
+golang*.html
+*.app
+*.apk
+*.ipa
+
